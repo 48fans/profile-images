@@ -1,4 +1,8 @@
-idol-profile
+profile-images
 ============
 
-profiles of AKB48 and sister groups
+包括AKB48、SKE48、NMB48、HKT48、JKT48、SNH48六个组合全部成员的公式照片。
+
+本项目旨在方便AKB48的饭能够更容易地开发相关应用，字幕组能够更容易的调用成员公式照片，免去收集整理公式照的困扰。
+
+第一批上传的是参加AKB48第37单总选举的全部296位成员。其他已毕业成员的公式照也会陆续补充。
